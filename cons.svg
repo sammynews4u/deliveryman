@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+    <defs>
+        <path id="ra5v1hedsa" d="M0.695 0.253L30.297 0.253 30.297 0.903 0.695 0.903z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g fill="#FFE4C2" transform="translate(-979 -2594) translate(979.65 2594.5)">
+                    <circle cx="35" cy="35" r="35"/>
+                </g>
+                <g>
+                    <g>
+                        <g transform="translate(-979 -2594) translate(979.65 2594.5) translate(19.535 20.756) translate(0 26.264)">
+                            <mask id="np0pxmygmb" fill="#fff">
+                                <use xlink:href="#ra5v1hedsa"/>
+                            </mask>
+                            <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M0.695 0.253L30.297 0.253" mask="url(#np0pxmygmb)"/>
+                        </g>
+                    </g>
+                    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.44" d="M3.806 26.517V15.092m7.3 11.425V15.092m16.08 11.425V15.092M4.015.65H26.98l3.31 7.72c.286 1.59-.618 3.154-2.139 3.698-1.52.544-3.212-.091-3.999-1.501.775 1.39.45 3.134-.774 4.15-1.224 1.017-2.999 1.017-4.223 0-1.224-1.016-1.549-2.76-.774-4.15-.584 1.045-1.688 1.693-2.885 1.692-1.197 0-2.301-.648-2.885-1.693-.584 1.046-1.688 1.694-2.885 1.694-1.198 0-2.302-.648-2.886-1.694-.787 1.41-2.478 2.044-3.998 1.5C1.322 11.523.416 9.96.702 8.371L4.016.65zm2.775 9.658L8.26 1.052m4.282 9.256l.49-9.256m5.26 9.256l-.489-9.256m6.239 9.256l-1.467-9.256M8.678 20.951v-2.157m8.456 3.692l6.677-6.768m-4.32 8.634l4.515-4.579" transform="translate(-979 -2594) translate(979.65 2594.5) translate(19.535 20.756)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

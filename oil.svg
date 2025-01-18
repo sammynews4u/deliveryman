@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+    <defs>
+        <path id="njx4qy1ana" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="wq6y6xztmc" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="3k4ghc1r2e" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="4sjteuqnxg" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="mwjb22dnii" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="6xiewcry7k" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="zt0dv1mcqm" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+        <path id="3rxyrclhko" d="M0 34.186L32.175 34.186 32.175 0 0 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-737 -2594) translate(737.276 2594.5)">
+                <circle cx="35" cy="35" r="35" fill="#FFECEC"/>
+                <g transform="translate(18.72 17.907)">
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M2.194 29.094V6.546c0-3.01 2.091-5.818 5.118-5.818h8.776c3.027 0 5.118 2.807 5.118 5.818v22.548"/>
+                    <mask id="pq2o6c0n3b" fill="#fff">
+                        <use xlink:href="#njx4qy1ana"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M0.731 33.459L22.669 33.459 22.669 29.095 0.731 29.095z" mask="url(#pq2o6c0n3b)"/>
+                    <mask id="23b7ciicyd" fill="#fff">
+                        <use xlink:href="#wq6y6xztmc"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M27.057 21.093L24.862 21.093 24.862 16.002 26.325 14.547" mask="url(#23b7ciicyd)"/>
+                    <mask id="t5d3gcr0pf" fill="#fff">
+                        <use xlink:href="#3k4ghc1r2e"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M31.444 11.638L26.325 11.638 26.325 14.547 28.519 16.002 28.519 21.093 30.712 21.093 31.444 20.366z" mask="url(#t5d3gcr0pf)"/>
+                    <mask id="jk1sly15fh" fill="#fff">
+                        <use xlink:href="#4sjteuqnxg"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M26.325 1.455L29.981 6.546 29.981 11.638" mask="url(#jk1sly15fh)"/>
+                    <mask id="gfj7j8a7sj" fill="#fff">
+                        <use xlink:href="#mwjb22dnii"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M21.206 24.73h3.657c.807 0 1.462.652 1.462 1.455v5.819c0 .803.655 1.454 1.463 1.454h1.462c.805.002 1.46-.65 1.462-1.454v-10.91" mask="url(#gfj7j8a7sj)"/>
+                    <mask id="o2oeu1fv0l" fill="#fff">
+                        <use xlink:href="#6xiewcry7k"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M5.119 11.638H18.28V6.546c0-1.606-1.31-2.909-2.925-2.909H8.044c-1.616 0-2.925 1.303-2.925 2.91v5.091h0z" mask="url(#o2oeu1fv0l)"/>
+                    <mask id="ueoa0zcq0n" fill="#fff">
+                        <use xlink:href="#zt0dv1mcqm"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M13.162 8.001L14.625 5.819" mask="url(#ueoa0zcq0n)"/>
+                    <mask id="dobdrdo9up" fill="#fff">
+                        <use xlink:href="#3rxyrclhko"/>
+                    </mask>
+                    <path stroke="#000" stroke-linejoin="round" stroke-width="2.156" d="M14.625 11.638v-.727c0-1.607-1.31-2.91-2.925-2.91-1.615 0-2.925 1.303-2.925 2.91v.727" mask="url(#dobdrdo9up)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
